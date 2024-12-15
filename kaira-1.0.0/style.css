@@ -362,6 +362,7 @@ a {
 .slide-clip .swiper-slide .image-holder img {
   transform: scale(1.2);
   transition: transform 1s ease-in-out;
+ 
 }
 
 .slide-clip .swiper-slide.swiper-slide-active .image-holder img {
